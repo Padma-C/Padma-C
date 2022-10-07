@@ -1,8 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Padma</h1>
-<h3 align="center">A Frontend Developer based in Sweden.</h3>
+<h1 align="left">Hi 👋, I'm Padma! A Frontend Developer based in Sweden.</h1>
 
-- 🔭 I’m currently working on **Frontend Web Development projects using ReactJS and SASS**
+🔭 I’m currently working on **Frontend Web Development projects using ReactJS and SASS.**
 
 
 <p align="left">
