@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Padma! A Developer based in Sweden.</h1>
+<h1 align="left">Hi 👋 I'm Padma! A Developer based in Sweden.</h1>
 
 <p align="left">
 </p>
